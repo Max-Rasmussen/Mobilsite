@@ -1,2 +1,0 @@
-# Mobilsite
-For aflevering
